@@ -1,10 +1,16 @@
 _repo: Kalevipoeg-jumalaistarulliselta-ja-historialliselta-kannalta_50562
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Donner, Otto
     gutenberg_agent_id: '44699'
     url: http://www.gutenberg.org/2009/agents/44699
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50562#Kalevipoeg-jumalaistarulliselta-ja-historialliselta-kannalta
 gutenberg_issued: '2015-11-27'
 gutenberg_type: Text
 identifiers:
